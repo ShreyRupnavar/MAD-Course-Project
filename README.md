@@ -1,3 +1,2 @@
-"# MAD-Course-Project" 
-"# MAD-Course-Project" 
-"# MAD-Course-Project" 
+This is my first Git Repo
+
